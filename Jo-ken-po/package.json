@@ -38,6 +38,11 @@
 		"vue-template-compiler": "2.6.11",
 		"vue-types": "1.7.0",
 		"vuex-persistedstate": "3.0.1"
+<<<<<<< Updated upstream
 	},
 	
+=======
+	}
+
+>>>>>>> Stashed changes
 }
